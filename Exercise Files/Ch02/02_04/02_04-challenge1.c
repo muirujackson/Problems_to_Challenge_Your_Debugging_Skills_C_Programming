@@ -1,5 +1,10 @@
 #include <stdio.h>
 #include <string.h>
+/**
+ * This program should extract the file name at the end of the path.
+ * For instance, the correct output for the first path should be heading.png
+ * execute the code and identify the issue and correct it.
+ */
 
 char *filename( char *path )
 {
